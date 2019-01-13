@@ -1,0 +1,156 @@
+                                       * {
+                                           box-sizing: border-box;
+                                           margin: 0;
+                                           padding: 0;
+                                       }
+                                       
+                                       header {
+                                           background-color: #333333;
+                                           width: 100%;
+                                           margin: 0;
+                                           padding: 0;
+                                           height: 65px;
+                                       }
+                                       
+                                       #center {
+                                           width: 960px;
+                                           height: 65px;
+                                           margin: 0 auto;
+                                           position: relative;
+                                       }
+                                       
+                                       #chioce {
+                                           position: absolute;
+                                           top: 0.5em;
+                                           right: 0;
+                                       }
+                                       
+                                       h2 {
+                                           line-height: 60px;
+                                           color: white;
+                                           margin-right: 10px;
+                                       }
+                                       
+                                       a {
+                                           color: white;
+                                           font-size: 16px;
+                                       }
+                                       
+                                       .banner {
+                                           background-color: #66bb33;
+                                           width: 100%;
+                                           height: 250px;
+                                       }
+                                       
+                                       .bar1,
+                                       .bar2,
+                                       .bar4 {
+                                           width: 24px;
+                                           height: 28px;
+                                           background-color: #b2dd99;
+                                           display: inline-block;
+                                           border: 0.5px solid black;
+                                       }
+                                       
+                                       p {
+                                           text-align: center;
+                                           font-size: 14px;
+                                           line-height: 32px;
+                                       }
+                                       
+                                       #spe {
+                                           position: relative;
+                                           top: 8px;
+                                       }
+                                       
+                                       .bar3 {
+                                           width: 24px;
+                                           height: 36px;
+                                           background-color: #e0f1d6;
+                                           line-height: 12px;
+                                           display: inline-block;
+                                           border: 0.5px solid grey;
+                                           position: relative;
+                                           bottom: 8px;
+                                       }
+                                       
+                                       .bar {
+                                           width: 150px;
+                                           height: 20px;
+                                           position: absolute;
+                                           top: 275px;
+                                           right: 275px;
+                                       }
+                                       
+                                       .main {
+                                           width: 100%;
+                                           height: 65px;
+                                           border-bottom: 0.5px solid gray;
+                                       }
+                                       
+                                       .main1 {
+                                           width: 960px;
+                                           margin: 0 auto;
+                                           height: 65px;
+                                       }
+                                       
+                                       .button1,
+                                       .button2,
+                                       .button3 {
+                                           display: inline-block;
+                                           font-size: 20px;
+                                           border-top-left-radius: 15px;
+                                           border-top-right-radius: 15px;
+                                           border-top: 0.5px solid grey;
+                                           border-left: 0.5px solid grey;
+                                           border-right: 0.5px solid grey;
+                                           padding: 12px;
+                                           margin: -2px;
+                                           position: relative;
+                                           top: 17.5px;
+                                       }
+                                       
+                                       .button1 {
+                                           border-bottom: 1px solid white;
+                                       }
+                                       
+                                       .button2,
+                                       .button3 {
+                                           background-color: #eeeeee;
+                                           border-bottom: 0.5px solid grey;
+                                       }
+                                       
+                                       .content {
+                                           width: 960px;
+                                           margin: 0 auto;
+                                           display: flex;
+                                           flex-flow: row wrap;
+                                       }
+                                       
+                                       #content1 {
+                                           width: 310px;
+                                           height: 150px;
+                                           border: 0.5px solid grey;
+                                           margin-right: 10px;
+                                           margin-top: 10px;
+                                       }
+                                       
+                                       #i1 {
+                                           width: 230px;
+                                           height: 150px;
+                                           border: 0.5px solid grey;
+                                           margin: 10px 10px 0 0
+                                       }
+                                       
+                                       .last {
+                                           background-color: #666666;
+                                           height: 80px;
+                                       }
+                                       
+                                       h6 {
+                                           text-align: center;
+                                           font-size: 14px;
+                                           color: white;
+                                           margin-top: 20px;
+                                           padding-top: 10px;
+                                       }

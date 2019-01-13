@@ -1,0 +1,15 @@
+.leftline {
+    position: absolute;
+    top: 0px;
+    left: 0;
+    background-color: beige;
+    width: 30%;
+}
+
+.rightline {
+    position: absolute;
+    background-color: orange;
+    top: 0;
+    right: 0;
+    width: 70%;
+}
